@@ -76,3 +76,11 @@ Some analysis steps use CSV files supplied by the original project environment. 
 ## Project Context
 
 This project was completed as part of the TripleTen Data Analyst program, Sprint 7: Data Collection and Storage (SQL).
+
+## Author
+
+**Etienne Viegas dos Santos**
+
+Data Analytics Student | TripleTen
+
+GitHub: [https://github.com/etienne-94](https://github.com/etienne-94)
